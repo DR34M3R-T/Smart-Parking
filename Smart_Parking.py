@@ -245,7 +245,7 @@ def config_get():
                 access_token=eval(response.text)
                 access_token=access_token['access_token']
             if access_token==False:
-                raise_error('无效的API_KEY或SECRET_KEY')
+                trash=1/0
         except:
             raise_error('无效的API_KEY或SECRET_KEY')
     else:

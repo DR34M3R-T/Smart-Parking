@@ -5,6 +5,6 @@
     'camera_id':0,
     'priceper30m':1.50,
     'APP_ID':'',
-    'API_KEY':'LKSSAPTbELoQY2HU0nQ1MQKi',
-    'SECRET_KEY':'lX94lvIxFADG0fVpStfs2P6LPWmMFL1y'
+    'API_KEY':'请输入你的Api_Key',
+    'SECRET_KEY':'请输入你的Secret_Key'
 }

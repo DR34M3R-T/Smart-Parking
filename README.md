@@ -9,7 +9,7 @@ Python learning code practice
 * matplotlib  
 * openpyxl\*  
 
-_\*: (pandas原生不支持Excel2010以后版本创建的.xlsx文件 于是使用openpyxl作为打开与保存的引擎)_
+_\*: pandas原生不支持Excel2010以后版本创建的.xlsx文件 于是使用openpyxl作为打开与保存的引擎_
 
 ## 二、实现的功能
 >### 1. 识别车牌  

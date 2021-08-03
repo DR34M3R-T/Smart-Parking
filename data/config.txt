@@ -1,0 +1,10 @@
+{
+    'warn_source_span':2,
+    'warn_max':80,
+    'warn_total':200,
+    'camera_id':0,
+    'priceper30m':1.50,
+    'APP_ID':'',
+    'API_KEY':'LKSSAPTbELoQY2HU0nQ1MQKi',
+    'SECRET_KEY':'lX94lvIxFADG0fVpStfs2P6LPWmMFL1y'
+}

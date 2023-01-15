@@ -28,9 +28,9 @@ _\*: pandas原生不支持Excel2010以后版本创建的.xlsx文件 于是使用
 >### 1. data\\config.txt
 >此文件以dict形式储存了停车管理系统的各种自定义设置值。  
 >>**APP_ID:**  
-百度云车牌识别API的APPID(其实没有任何用途，你也可以不填)
+百度云车牌识别API的APPID(其实没有任何用途，你也可以不填)  
 >>**API_KEY:**  string  
-百度云车牌识别API的Api_Key，用于获取OCR用的access_token
+百度云车牌识别API的Api_Key，用于获取OCR用的access_token  
 >>**SECRET_KEY:**  string  
 百度云车牌识别API的Secret_Key，也用于获取OCR用的access_token  
 >>**camera_id:**  int, >=0  
